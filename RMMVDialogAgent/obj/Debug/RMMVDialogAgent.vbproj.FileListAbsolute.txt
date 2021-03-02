@@ -1,0 +1,29 @@
+c:\users\administrator\documents\visual studio 2017\Projects\RMMVDialogAgent\RMMVDialogAgent\obj\Debug\RMMVDialogAgent.vbprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2017\Projects\RMMVDialogAgent\RMMVDialogAgent\obj\Debug\RMMVDialogAgent.frmMain.resources
+c:\users\administrator\documents\visual studio 2017\Projects\RMMVDialogAgent\RMMVDialogAgent\obj\Debug\RMMVDialogAgent.Resources.resources
+c:\users\administrator\documents\visual studio 2017\Projects\RMMVDialogAgent\RMMVDialogAgent\obj\Debug\RMMVDialogAgent.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2017\Projects\RMMVDialogAgent\RMMVDialogAgent\bin\Debug\RMMVDialogAgent.exe.config
+c:\users\administrator\documents\visual studio 2017\Projects\RMMVDialogAgent\RMMVDialogAgent\bin\Debug\RMMVDialogAgent.exe
+c:\users\administrator\documents\visual studio 2017\Projects\RMMVDialogAgent\RMMVDialogAgent\bin\Debug\RMMVDialogAgent.pdb
+c:\users\administrator\documents\visual studio 2017\Projects\RMMVDialogAgent\RMMVDialogAgent\bin\Debug\RMMVDialogAgent.xml
+c:\users\administrator\documents\visual studio 2017\Projects\RMMVDialogAgent\RMMVDialogAgent\obj\Debug\RMMVDialogAgent.exe
+c:\users\administrator\documents\visual studio 2017\Projects\RMMVDialogAgent\RMMVDialogAgent\obj\Debug\RMMVDialogAgent.xml
+c:\users\administrator\documents\visual studio 2017\Projects\RMMVDialogAgent\RMMVDialogAgent\obj\Debug\RMMVDialogAgent.pdb
+I:\RMMVDialogAgent\RMMVDialogAgent\bin\Debug\RMMVDialogAgent.exe.config
+I:\RMMVDialogAgent\RMMVDialogAgent\bin\Debug\RMMVDialogAgent.exe
+I:\RMMVDialogAgent\RMMVDialogAgent\bin\Debug\RMMVDialogAgent.pdb
+I:\RMMVDialogAgent\RMMVDialogAgent\bin\Debug\RMMVDialogAgent.xml
+I:\RMMVDialogAgent\RMMVDialogAgent\obj\Debug\RMMVDialogAgent.vbprojResolveAssemblyReference.cache
+I:\RMMVDialogAgent\RMMVDialogAgent\obj\Debug\RMMVDialogAgent.frmLoading.resources
+I:\RMMVDialogAgent\RMMVDialogAgent\obj\Debug\RMMVDialogAgent.frmMain.resources
+I:\RMMVDialogAgent\RMMVDialogAgent\obj\Debug\RMMVDialogAgent.Resources.resources
+I:\RMMVDialogAgent\RMMVDialogAgent\obj\Debug\RMMVDialogAgent.vbproj.GenerateResource.Cache
+I:\RMMVDialogAgent\RMMVDialogAgent\obj\Debug\RMMVDialogAgent.exe
+I:\RMMVDialogAgent\RMMVDialogAgent\obj\Debug\RMMVDialogAgent.xml
+I:\RMMVDialogAgent\RMMVDialogAgent\obj\Debug\RMMVDialogAgent.pdb
+I:\RMMVDialogAgent\RMMVDialogAgent\obj\Debug\RMMVDialogAgent.frmAbout.resources
+I:\RMMVDialogAgent\RMMVDialogAgent\obj\Debug\RMMVDialogAgent.mainRes.resources
+I:\RMMVDialogAgent\RMMVDialogAgent\obj\Debug\RMMVDialogAgent.frmChangeLog.resources
+I:\RMMVDialogAgent\RMMVDialogAgent\obj\Debug\RMMVDialogAgent.frmSpeaker.resources
+I:\RMMVDialogAgent\RMMVDialogAgent\obj\Debug\RMMVDialogAgent.frmSetting.resources
+I:\RMMVDialogAgent\RMMVDialogAgent\obj\Debug\RMMVDialogAgent.frmSpeakerAdd.resources
